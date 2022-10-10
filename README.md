@@ -8,4 +8,9 @@ Live day1 : [Youtube Link]( https://youtu.be/WiS85FqX1og)
 * Python Data Types
 * Python Number
 
-Live day2 : [https://youtu.be/h9Ct_k-Y__0)
+Live day2 :  [Youtube Link](https://youtu.be/h9Ct_k-Y__0)
+* Python Casting
+* Python Strings
+* Python Booleans
+* Python Operators
+* Python Lists (Intro)

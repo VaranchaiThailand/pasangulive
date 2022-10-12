@@ -18,3 +18,7 @@ Live day2 :  [Youtube Link](https://youtu.be/h9Ct_k-Y__0)
 Live day3 :  [Youtube Link](https://youtu.be/G_jOYfC7hh4)
 * Introduction to Kaggle
 * Python Lists
+
+Live day4 :  [Youtube Link](https://youtu.be/VmNdd5M-HM8)
+* Introduction to Google Cloud Platform
+* Python Tuple

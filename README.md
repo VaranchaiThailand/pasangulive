@@ -21,4 +21,11 @@ Live day3 :  [Youtube Link](https://youtu.be/G_jOYfC7hh4)
 
 Live day4 :  [Youtube Link](https://youtu.be/VmNdd5M-HM8)
 * Introduction to Google Cloud Platform
-* Python Tuple
+* Python Tuples
+
+Live day5.1 :  [Youtube Link](https://youtu.be/7ra-nvQ9EtI)
+* Getting Started with BigQuery Machine Learning
+
+Live day5.2 :  [Youtube Link](https://youtu.be/AJ38VkJaD_I)
+* Feature Engineering with BigQuery
+* Python Sets

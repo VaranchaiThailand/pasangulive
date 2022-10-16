@@ -29,3 +29,7 @@ Live day5.1 :  [Youtube Link](https://youtu.be/7ra-nvQ9EtI)
 Live day5.2 :  [Youtube Link](https://youtu.be/AJ38VkJaD_I)
 * Feature Engineering with BigQuery
 * Python Sets
+
+Live day6 :  [Youtube Link](https://youtu.be/uMHjp7u_t1k)
+* Python Dictionary
+
